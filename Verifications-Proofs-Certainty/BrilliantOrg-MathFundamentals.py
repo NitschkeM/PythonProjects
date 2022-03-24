@@ -57,3 +57,7 @@ print(ReturnNumberOfOddNumbersBetween0AndN(512))        # Two Hundred And Fifty 
 print(ReturnNumberOfOddNumbersBetween0AndN(1024))       # Five Hundred And Twelwe Odd Numbers In Interval [0,1024]
 
 
+
+
+# Update: Both Committed and Pushed Math Foundations
+
