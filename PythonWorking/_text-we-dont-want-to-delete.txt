@@ -1,0 +1,97 @@
+# App idea: A plugin/addon to Visual Studio Code (could be other editors)
+# that allows the user/developer to temporarily remove/hide squiggly lines in the editor / compiler complaints / linting?
+# Then a developer could compare these three lines (an example purpose for doing so would be to compare function names):
+#   def selfCallingFunction():
+#   def functionThatCallsItself():
+#   def funtionPrintingIncreasinglyHigherNumbers:
+# Purpose: To Compare Function Names Without Squiggly Lines Influencing The Visual Impression.
+# Idea: In comparing --- and all thought?
+#           Notice: Is the mind playing:
+#               Whose First?
+#               Whose Right?
+#               Something Else?
+#                   Maybe we can recognize more games the mind plays - patterns of mind.
+
+
+
+
+# Comment Categories:
+#   Code Comment
+#   Commented Code
+#   Planning Comment
+#       Overview Plan Comment   - Big Picture
+#       TODO Comment            - Details
+#   Comments Unrelated to Project
+#   Comments relevant to Coding/SWDP
+
+
+
+# Let us try doing (1) Prioritizing Patience and Feeling, (2) Prioritizing Effectiveness and Feeling.
+#   Not saying (1) without Effectiveness, not saying (2) without Patience
+#   More like we are saying, Prioritize Patience and Feeling, Prioritize Effectiveness and Feeling
+#       Perhaps worth taking a closer look at how we prioritize values in different situations?
+#           Speed is perhaps a weird/less useful value than: Efficiency / Productivity
+#               Especially if it Arises from a Feeling of Rush and Lack of Time.
+#               Effectiveness and Productivity can include both patience and speed
+#                   It is about finding the proper balance.
+#                       We value Awareness and Feeling Highly
+#   Perhaps (1) is Useful for: "Getting into it" and (2) is something it hopefully evolves into?
+
+# Some guesses as to our own tendencies:
+#      Fear of what we dont understand:
+#           Fight: Attack, Attracted towards
+#               When the will to understand is driven by:
+#                   Lack?
+#                   Desperation
+#                   Not Being Good Enough unless I understand this.
+#                   I HAVE to understand this, I MUST understand this, OR ELSE --> Something Terrible, not good enough, failure, death
+#                       I HAVE UNDERSTOOD THIS
+#           Flight: Avoid, Repulsed from
+#  Then it is understandable that there is avoidance.
+#  Because the approach to the activity: 
+#           Comes from lack
+#           Takes things personally, is Serious
+#           Is afraid of not being good enough
+#  Then it is understandable that we relate the approach to desperation.
+#   Puts its life on the line? Sense of self? Value of Self.
+#       What is used to value oneself? How one sees oneself? How do one see oneself? What is self?
+
+# If we could find Love and Beauty in the Software Development Process that would be Wonderful <3
+
+
+
+##################################################################################
+######################### READING COMPREHENSION PRACTICE #########################
+##################################################################################
+# csvfile can be any object which supports      cannot be an object which does not support      otherwise will not work
+#                                               csvfile must be an object which supports        otherwise will not work
+
+
+# The first way of writing/formulating:
+#       Opens up Possibilities
+
+# The second way of writing/formulating:
+#       Narrows down Options?
+
+
+# csvfile can be any object which supports
+# csvfile must be an object which supports
+# Both work the same in that in the context where this is the next question:
+#       X is an object that supports. Can I use X?
+#          We were wrong again, amazing!!!
+
+# csvfile can be any object which supports --> ALL OBJECTS which Supports are possible/fits/satisfies requirement !!!
+# csvfile must be an object which supports --> This does not explicitly state that all objects which supports fits, just that it is one of the requirements.
+#       This is more like an error message?
+#   I am not sure anymore... 
+#   It seems both sentences states a requirement, without saying if there are more requirements.
+#       If we imagine there are more of the sentence:
+#           csvfile can be any object which supports X and that has the RUMLE property.
+
+#       I think we have attached to / prefer the first statement?
+#       And we are treating the second statement unfavorably - unfairly.
+#           Because we imagined we could extend that sentence - to find a flaw in it.
+#           But we did not extend the first sentence - which would expose the same imagined flaw
+#           ?
+
+# csvfile must be an object which supports, so any object which supports is fitting?

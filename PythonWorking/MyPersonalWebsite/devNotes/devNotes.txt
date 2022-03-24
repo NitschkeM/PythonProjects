@@ -1,0 +1,44 @@
+Suggested Initial Folder Structure
+
+
+
+Whole --> Chop --> Parts
+    How can I chop wisely if I dont know the whole?
+    How can I split a Larger Task into Smaller Tasks if I dont know what the Larger Task is?
+
+How much can be known about an application before starting development?
+    When does development start?
+        What happens before it starts?
+        What is the first step of development?
+            What is the first thing that happens when development starts?
+                Is it when the first line of code is written?
+                Is it when the first character of code is written?
+                Is it when the coding/development environment is opned on the computer?
+
+When I describe code with diagrams and user stories it feels like/is a bigger commitment?
+    This association can be understood:
+        Perhaps the techniques of diagrams and user stories has not been used on smaller projects?
+            Perhaps they have been used - but automatically/naturally - so we did not notice we were doing it?
+                We did not see the activity we were doing through the lense of a particular technique.
+                    Just did what was natural to do?
+                        What felt good to do?
+                        Intuition?
+                    What I thought was useful to do in order to achieve/reach the goal.
+
+
+What is useful to know about an application before developing it?
+    How it will be used?
+    Intended Usage?
+        User Stories?
+
+
+Simple Process - Small Iterations
+Simple Process - Simple Iterations
+
+Keep it Simple
+
+Keep it Small?
+    The Iterations?
+    The Application?
+
+- Personal Website where I can post things such as articles and graphs?

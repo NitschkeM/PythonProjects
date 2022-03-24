@@ -1,0 +1,6 @@
+Q: Is the concept of an Immutable Object useful?
+
+*** Aliasing ****
+- Within and Across Languages
+- Aliases behave like pointers in certain respects
+    Q: In what respects?
